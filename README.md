@@ -18,4 +18,4 @@ Excel
 Real Mart Sales Analysis
 Grama-Bazaar Price Arbitrage Engine
 
-📧 Email: chethanchethan4482@gmail.com
+📧 Email: veereshkirangi07@gmail.com
